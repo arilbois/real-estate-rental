@@ -26,7 +26,7 @@ app.use("/api/v1", user);
 app.use("/api/v1", product);
 app.use("/api/v1", order);
 app.use("/api/v1", payment);
-app.use("/api/v1/nft", nft);
+app.use("/api/v1/syahril-apitest", nft);
 
 // deployment
 __dirname = path.resolve();
